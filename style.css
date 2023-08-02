@@ -14,7 +14,7 @@ label {
 form {
     text-align: center;
     background-color: bisque;
-    margin:0px 350px 0px 350px;
+    margin:0px 250px 0px 250px;
     border :2px solid black;
    
     
@@ -22,7 +22,7 @@ form {
 h1 {
     text-align: center;
     background-color: cadetblue;
-    margin:0px 350px 0px 350px;
+    margin:0px 250px 0px 250px;
     border :2px solid black;
 }
 #submit {
